@@ -1,0 +1,3 @@
+wordcloud
+newspaper3k
+nltk
